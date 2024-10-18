@@ -1,4 +1,4 @@
-baseurl: "/https://benoitgaston.github.io/"
+baseurl: '/benoitgaston.github.io'
 permalink: pretty
 title: 'Jekyll Serif'
 

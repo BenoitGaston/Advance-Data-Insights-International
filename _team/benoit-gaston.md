@@ -1,6 +1,6 @@
 ---
 title: "Benoit Gaston"
-date: 2024-10-18
+date: 2024-10-18T12:33:46+10:00
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Director"
 linkedinurl: "https://www.linkedin.com/in/antoine-clais-math/"

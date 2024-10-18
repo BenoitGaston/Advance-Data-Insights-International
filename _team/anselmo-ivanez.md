@@ -1,6 +1,6 @@
 ---
 title: "Anselmo Ivañez"
-date: 2024-10-18
+date: 2024-10-18T12:33:46+10:00
 image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
 jobtitle: "Software Engineer"
 linkedinurl: ""

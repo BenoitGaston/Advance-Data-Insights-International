@@ -1,6 +1,6 @@
 ---
 title: "Alberta Depennai"
-date: 2024-10-18
+date: 2024-10-18T12:33:46+10:00
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
 jobtitle: "Data Analysis Expert"
 linkedinurl: "https://www.linkedin.com/"

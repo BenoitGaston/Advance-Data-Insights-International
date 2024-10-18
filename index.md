@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: A3I
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Artificial Inteligence Insights International (A3I) supports you in your AI transition.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
@@ -10,4 +10,4 @@ show_call_box: true
 
 # Serif - A Jekyll Business Theme.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Artificial Inteligence Insights International (A3I) is a team of AI & Data experts available to support your business digital journey.

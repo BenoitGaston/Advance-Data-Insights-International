@@ -1,9 +1,9 @@
 ---
-title: "Robert Johnson"
-date: 2018-12-20T13:44:23+10:00
-image: "images/team/vince-fleming-613817-unsplash.jpg"
-jobtitle: "Developer"
-linkedinurl: "https://www.linkedin.com/"
+title: "Anselmo Ivañez"
+date: 2024-10-18
+image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
+jobtitle: "Software Engineer"
+linkedinurl: ""
 weight: 3
 ---
 

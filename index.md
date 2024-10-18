@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Artificial Inteligence Insights International.
 
 Artificial Inteligence Insights International (A3I) is a team of AI & Data experts available to support your business digital journey.

@@ -2,7 +2,7 @@ baseurl: '/Advance-Data-Insights-International'
 url: '/https://BenoitGaston.github.io/Advance-Data-Insights-International'
 remote_theme: zerostaticthemes/jekyll-serif-theme
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'A3I'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"

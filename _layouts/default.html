@@ -1,40 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.svg' | relative_url }}">
-  <!-- Google Fonts CDN -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
-  <!-- Self host font -->
-  <!-- <link rel="preload" href="{{ '/assets/fonts/playfair-display.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin> -->
-  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
-  
-  {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
-  {% if page.meta_title %}<meta property="og:title" content="{{ page.meta_title }}"/>{% else %}<meta property="og:title" content="{{ page.title }}"/>{% endif %}
-  <meta property="og:type" content="website"/>
-  <meta property="og:url" content="{{ url }}"/>
-  {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}"/>{% endif %}
-  {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
-  <meta name="twitter:card" content="summary"/>
-  {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
-  {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
-
-</head>
-
-<body class='page {{layout.bodyClass}}'>
-  {% include main-menu-mobile.html %}
-  <div id="wrapper" class="wrapper">
-    {% include header.html headerClass='header-extra' %}
-    {{content}}
-  </div>
-  {% include footer.html %}
-  {% include sub-footer.html %}
-  <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
-  {% include google-analytics.html %}
-</body>
-</html>
+---
+layout: minimal
+---
+	{% include components/headers.html headertype= page.header_type imghero=page.header_img projects=page.project_links %}
+	<main class="container-lg pb-3 flex-fill">
+	  {% if page.show_breadcrumb or page.show_date or page.show_sociallinks -%}
+	  {%- include components/breadcrumbdatesocial.html -%}
+	  {% endif %}
+		<div class="row pt-2">
+			<aside class="col-lg-2 mt-lg-3 small">
+			  {%- if page.show_author -%}
+			  {% include components/author.html %}
+			  {%- endif -%}
+			</aside>
+			<article id="maincontent" class="col-lg-8 mt-3 e-content">
+			{% if page.show_sidetoc %}
+			
+			{% include components/sidetoc.html %}
+			
+			{% endif %}
+			 {% if page.show_toc %} 
+			               {% assign h_min = page.h_min | default: 2 %}
+                           {% assign h_max = page.h_max | default: 4 %}
+             <nav aria-label="table-of-contents">
+			 {% include components/toc.html sanitize=false html=content h_min=h_min h_max=h_max skip_no_ids=true id="toc" class="chulapa-toc-wrapper.list-group.mb-5.mx-3.mx-lg-5" item_class="list-group-item.font-weight-bold.py-1.pr-0.mr-0.chulapa-toc-reset" %}
+			 </nav>
+			  {% endif %}
+			{{- content -}}
+			
+			{% if page.show_applause %} 
+			<div class="mb-2 mt-5 text-center"><applause-button id="applause" class="mx-auto" style="width: 40px; height: 40px;" url="{{ page.url | absolute_url }}"></applause-button></div>
+			{% endif %}
+			</article>
+		</div>
+	</main>
+	{%- if page.show_bottomnavs -%}
+	  {%- include components/navbeforeafter.html -%}
+	{%- endif -%}
+	{%- if page.show_categories -%}
+		{% assign size = page.categories | size %}
+		{% if size > 0 %}
+  	{%- include components/categories.html-%}
+  	{% endif %}
+	{%- endif -%}
+	{%- if page.show_tags -%}
+		{% assign size = page.tags | size %}
+		{% if size > 0 %}
+	  {%- include components/tags.html-%}
+	  {% endif %}
+	{%- endif -%}
+	{%- if page.show_related -%}
+	  {%- include components/related.html -%}
+	{%- endif -%}

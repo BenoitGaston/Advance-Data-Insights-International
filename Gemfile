@@ -1,9 +1,6 @@
-source 'https://rubygems.org'	
-gem 'github-pages', group: :jekyll_plugins	
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem 'jekyll-algolia', '~> 1.0'
-  gem 'jekyll-github-metadata'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-include-cache'
-end
+gem "webrick", "~> 1.7"
+gem "jekyll", "~> 4.3"
+gem "jekyll-environment-variables"
+gem "jekyll-theme-consulting"

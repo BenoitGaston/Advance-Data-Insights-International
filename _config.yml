@@ -1,6 +1,6 @@
 baseurl: '/Advance-Data-Insights-International'
 url: '/https://BenoitGaston.github.io/Advance-Data-Insights-International'
-theme: jekyll-theme-consulting
+remote_theme: zerostaticthemes/jekyll-serif-theme
 permalink: pretty
 title: 'A3I'
 

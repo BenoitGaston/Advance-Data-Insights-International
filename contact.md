@@ -1,5 +1,7 @@
 ---
-title: Contact
 layout: contact
-description: Contact
+permalink: /contact.php
+mail:
+    subject: Hello!
+    intro:
 ---

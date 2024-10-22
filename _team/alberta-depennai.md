@@ -4,7 +4,7 @@ date: 2024-10-18T12:33:46+10:00
 image: "images/team/alberta-depennai.jpg"
 jobtitle: "Data Analysis Expert"
 #inkedinurl: "https://www.linkedin.com/"
-promoted: true
+
 weight: 3
 ---
 

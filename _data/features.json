@@ -1,7 +1,7 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "description": "Book a free assesment of your data stack and of your AI projects.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Technology Expert",
-    "description": "We stay up to date on the latest technologies.",
+    "title": "Open Source Technology Expert",
+    "description": "We stay up to date with the latest OSS technologies and will help you to take advantage of them.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

@@ -1,5 +1,5 @@
 ---
-title: "Coaching"
+title: "Coaching and Training"
 date: 2024-10-18T12:33:46+10:00
 weight: 2
 ---

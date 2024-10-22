@@ -7,4 +7,4 @@ jobtitle: "Data Scientist"
 weight: 2 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Ph.D in Mathematics with 1à years of experience in putting to life R & D projects using Machine Learning and AI.

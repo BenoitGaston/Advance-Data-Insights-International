@@ -2,7 +2,7 @@
 title: Services
 layout: services
 description: Services
-intro_image: "images/illustrations/web.jpg"
+intro_image: "images/illustrations/web-small.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---

@@ -26,14 +26,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="3"
-     inkscape:cx="118.16667"
+     inkscape:cx="118.33333"
      inkscape:cy="32"
      inkscape:window-width="1368"
      inkscape:window-height="971"
      inkscape:window-x="0"
      inkscape:window-y="311"
      inkscape:window-maximized="0"
-     inkscape:current-layer="logo" />
+     inkscape:current-layer="g3" />
   <title
      id="title1">logo</title>
   <g
@@ -46,13 +46,6 @@
        id="logo"
        transform="translate(2)"
        fill-rule="nonzero">
-      <rect
-         style="fill:#2c2ca0;stroke-width:1.84383"
-         id="rect1"
-         width="155.45"
-         height="64.483337"
-         x="-2"
-         y="-1.7763568e-15" />
       <g
          id="g2"
          transform="matrix(0.95722809,0,0,0.95722809,91.15314,12.405941)">
@@ -146,17 +139,17 @@
          transform="translate(-18.333333,6.6666667)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.7877px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0088aa;stroke-width:4.59496"
-           x="56.356682"
-           y="46.072632"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:47.7877px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#070d65;fill-opacity:1;stroke-width:4.59496"
+           x="58.690014"
+           y="46.405964"
            id="text1-9"><tspan
              sodipodi:role="line"
              id="tspan2"
-             x="56.356682"
-             y="46.072632">3</tspan></text>
+             x="58.690014"
+             y="46.405964">3</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:47.7877px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0088aa;stroke-width:4.59496"
+           style="font-size:47.7877px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#070d65;stroke-width:4.59496;fill-opacity:1"
            x="31.333332"
            y="35.591373"
            id="text1"><tspan
@@ -164,10 +157,10 @@
              id="tspan1"
              x="31.333332"
              y="35.591373"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:47.7877px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.59496">A</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:47.7877px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.59496;fill:#070d65;fill-opacity:1">A</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.7877px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#0088aa;stroke-width:4.59496"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:47.7877px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#070d65;stroke-width:4.59496;fill-opacity:1"
            x="78.690018"
            y="36.405968"
            id="text1-7"><tspan

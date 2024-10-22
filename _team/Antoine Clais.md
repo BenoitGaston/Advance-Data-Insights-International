@@ -4,6 +4,7 @@ date: 2024-10-18T12:33:46+10:00
 image: "images/team/antoine_pro_small.png"
 jobtitle: "Team Leader"
 linkedinurl: "https://www.linkedin.com/in/antoine-clais-math/"
+promoted: true
 weight: 1
 ---
 

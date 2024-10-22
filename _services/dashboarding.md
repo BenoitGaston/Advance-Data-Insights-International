@@ -1,7 +1,7 @@
 ---
 title: "Dashboarding"
 date: 2024-10-18T12:33:46+10:00
-weight: 1
+weight: 4
 ---
 
-We create some D ashboards for you !
+We create the tools you need to monitor your businness.

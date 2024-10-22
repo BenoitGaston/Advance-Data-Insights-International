@@ -5,4 +5,4 @@ weight: 1
 ---
 
 
-You are the expert of your data and with the proper Data Annotation software we will transfer this expertise to your Machine Learning and AI models.
+You are the expert of your data and with the proper Data Annotation software we will transfer this expertise to your Machine Learning models.

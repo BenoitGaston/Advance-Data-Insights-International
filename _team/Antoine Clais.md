@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Ph.D in Mathematics with 1à years of experience in putting to life R & D projects using Machine Learning and AI.
+Ph.D in Mathematics with 10 years of experience in putting to life R&D projects using Machine Learning and AI.

@@ -1,6 +1,6 @@
 [
   {
-    "title": "Free Consultation",
+    "title": "Cost Effective",
     "description": "Book a free assesment of your data stack and of your AI projects.",
     "image": {
       "url": "images/features/survey.svg",
@@ -12,16 +12,16 @@
     "title": "Full Data Stack Resources",
     "description": "Our team can help you at any level of your data stack.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/data-science.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Open Source",
-    "description": "We stay up to date with the latest OSS technologies and will help you to take advantage of them.",
+    "title": "Methodology",
+    "description": "Driven by CI/CD principles, we are apply Agile Methodology to adapt to your requierments.",
     "image": {
-      "url": "images/features/open-source.png",
+      "url": "images/features/agile.svg",
       "width": 80,
       "height": 80
     }

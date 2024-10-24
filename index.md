@@ -10,4 +10,4 @@ show_call_box: true
 
 # A3I
 
-A3I is a quickly mobilisable and cost effective team of AI & Data experts available to support your digital journey.
+A3I is a quickly mobilisable team of AI & Data experts available to support your digital journey.

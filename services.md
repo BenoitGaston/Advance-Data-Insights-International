@@ -11,7 +11,6 @@ intro_image_hide_on_mobile: true
 
 We help you and your team embrace the latest technological transitions.
 
-## Projects
 
 
 
